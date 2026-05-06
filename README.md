@@ -48,15 +48,6 @@
 - Analyzed $2.30M in sales across regions, categories & segments
 - Found Furniture has high sales but very low profit margin
 - Tools: **Excel · Power BI**
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishgoud0099-commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-</p>
-
 ---
 
 ## 🤝 Connect with Me
